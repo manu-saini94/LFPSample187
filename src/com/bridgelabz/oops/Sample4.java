@@ -22,5 +22,7 @@ public class Sample4 {
         AccessSpecifiers.method3();
 
         System.out.println("First commit on branch1 by dev-1");
+        System.out.println("Second commit on branch1 by dev-1");
+         
     }
 }
