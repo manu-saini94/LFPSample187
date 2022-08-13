@@ -20,5 +20,7 @@ public class Sample4 {
         obj.m3();
         System.out.println(AccessSpecifiers.y3);
         AccessSpecifiers.method3();
+
+        System.out.println("First commit on branch1 by dev-1");
     }
 }
