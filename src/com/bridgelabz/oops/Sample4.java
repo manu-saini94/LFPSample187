@@ -23,6 +23,8 @@ public class Sample4 {
 
         System.out.println("First commit on branch1 by dev-1");
         System.out.println("Second commit on branch1 by dev-1");
-         
+        System.out.println("first commit on brnach2 by dev-1 , modified by dev-2");
+        System.out.println("first commit on brnach2 by dev-1, modified by dev-1");
+
     }
 }
